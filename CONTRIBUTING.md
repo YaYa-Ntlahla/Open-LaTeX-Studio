@@ -22,7 +22,7 @@ Are you new to software development?
 ------------------------------------
 Don't worry! You are still welcome to join us. We will help you getting through any problems you might encounter and
 will answer any of your questions. This is a great oppurtunity for you to get your first programming experience with real
-programmers in actual project! You can contact us anytime at:
+programmers in an actual project! You can contact us anytime at:
 * https://groups.google.com/forum/#!forum/open-latex-studio
 * open-latex-studio@googlegroups.com
 
